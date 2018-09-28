@@ -234,16 +234,35 @@
                             <p class="description">
 
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
+                            <div align="left">
+
+
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > ORTA
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+
+
                             </div>
 
 
@@ -266,16 +285,33 @@
 
                             <p class="description">
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
+                <div align="left">
+
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > ORTA
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+
                             </div>
 
                             </p>
@@ -293,19 +329,37 @@
 
                             <p class="description">
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
+                            <div align="left">
+
+
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > ORTA
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                    <span class="form-check-sign"></span>
+                                </label>
                             </div>
 
-                            </p>
+                            </div>
+
+                                </p>
                             <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
                         </div>
                     </div>
@@ -320,17 +374,34 @@
 
                             <p class="description">
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
+                            <div align="left">
+
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
                             </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > İYİ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > ORTA
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <label class="form-check-label">
+                                    <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                    <span class="form-check-sign"></span>
+                                </label>
+                            </div>
+
+                                </div>
 
 
                             </p>
@@ -472,16 +543,35 @@
                             <p class="description">
 
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
+                            <div align="left">
+
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
                                 </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > ORTA
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+
+
                             </div>
 
 
@@ -504,16 +594,33 @@
 
                             <p class="description">
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
+                            <div align="left">
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
                                 </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > ORTA
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+
                             </div>
 
                             </p>
@@ -531,16 +638,34 @@
 
                             <p class="description">
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
+                            <div align="left">
+
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
                                 </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > ORTA
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+
                             </div>
 
                             </p>
@@ -558,42 +683,38 @@
 
                             <p class="description">
 
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
+                            <div align="left">
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" checked> ÇOK İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
                                 </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > İYİ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > ORTA
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input class="form-check-input" type="checkbox" value="" > YETERSİZ
+                                        <span class="form-check-sign"></span>
+                                    </label>
+                                </div>
+
                             </div>
 
 
                             </p>
                             <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-
-            <div class="subscribe-line">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-9 col-md-8 col-sm-8">
-                            <form class="">
-                                <div class="form-group">
-                                    <input type="text" value="" class="form-control" placeholder="Email Adresiniz (opsiyonel)...">
-                                </div>
-                            </form>
-                        </div>
-                        <div class="col-md-3 col-sm-4">
-                            <button type="button" class="btn btn-danger btn-block btn-lg">FORMU KAYDEDİN</button>
                         </div>
                     </div>
                 </div>
