@@ -221,50 +221,19 @@
                     <h5 class="description">Bizden aldığınız hizmeti değerlendirir misiniz?</h5>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-palette"></i>
-                        </div>
-                        <div class="description">
-                            <h4 class="info-title">Meze Kalitesi</h4>
-
-
-                            <p class="description">
-
-
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
-                            </div>
-
-
-
-
-                            </p>
-                            <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="info">
-                        <div class="icon icon-danger">
-                            <i class="nc-icon nc-bulb-63"></i>
+                            <img src="/assets/image/_menu.png" height="80" />
                         </div>
                         <div class="description">
                             <h4 class="info-title">Menü Çeşitliliği</h4>
 
 
-
                             <p class="description">
+
 
                             <div class="col-md-3 col-sm-3">
                                 <div class="form-group">
@@ -278,6 +247,9 @@
                                 </div>
                             </div>
 
+
+
+
                             </p>
                             <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
                         </div>
@@ -286,11 +258,13 @@
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-chart-bar-32"></i>
+                            <img src="/assets/image/_yiyecek.png" height="80" />
                         </div>
                         <div class="description">
                             <h4 class="info-title">Yiyecek Kalitesi</h4>
 
+
+
                             <p class="description">
 
                             <div class="col-md-3 col-sm-3">
@@ -313,10 +287,37 @@
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-sun-fog-29"></i>
+                            <img src="/assets/image/_guleryuz.png" height="80" />
                         </div>
                         <div class="description">
                             <h4 class="info-title">Güler Yüzlülük</h4>
+
+                            <p class="description">
+
+                            <div class="col-md-3 col-sm-3">
+                                <div class="form-group">
+                                    <select class="selectpicker" data-style="btn btn-default">
+                                        <option disabled selected> SEÇİNİZ </option>
+                                        <option value="1">Çok İyi </option>
+                                        <option value="1">İyi</option>
+                                        <option value="1">Orta</option>
+                                        <option value="1">Kötü</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            </p>
+                            <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="info">
+                        <div class="icon icon-danger">
+                            <img src="/assets/image/_tatli.png" height="80" />
+                        </div>
+                        <div class="description">
+                            <h4 class="info-title">Tatlı Kalitesi</h4>
 
                             <p class="description">
 
@@ -344,10 +345,10 @@
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-palette"></i>
+                            <img src="/assets/image/_genelortam.png" height="80" />
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Meze Kalitesi</h4>
+                            <h4 class="info-title">Genel Ortam</h4>
 
 
                             <p class="description">
@@ -376,10 +377,10 @@
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-bulb-63"></i>
+                            <img src="/assets/image/_hijyen.png" height="80" />
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Menü Çeşitliliği</h4>
+                            <h4 class="info-title">Hijyen</h4>
 
 
 
@@ -405,10 +406,10 @@
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-chart-bar-32"></i>
+                            <img src="/assets/image/_servis.png" height="80" />
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Yiyecek Kalitesi</h4>
+                            <h4 class="info-title">Servis Kalitesi</h4>
 
                             <p class="description">
 
@@ -432,10 +433,10 @@
                 <div class="col-md-3">
                     <div class="info">
                         <div class="icon icon-danger">
-                            <i class="nc-icon nc-sun-fog-29"></i>
+                            <img src="/assets/image/_sunum.png" height="80" />
                         </div>
                         <div class="description">
-                            <h4 class="info-title">Güler Yüzlülük</h4>
+                            <h4 class="info-title">Yemeğin Sunumu</h4>
 
                             <p class="description">
 
@@ -458,129 +459,6 @@
                     </div>
                 </div>
             </div>
-
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="info">
-                        <div class="icon icon-danger">
-                            <i class="nc-icon nc-palette"></i>
-                        </div>
-                        <div class="description">
-                            <h4 class="info-title">Meze Kalitesi</h4>
-
-
-                            <p class="description">
-
-
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
-                            </div>
-
-
-
-
-                            </p>
-                            <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="info">
-                        <div class="icon icon-danger">
-                            <i class="nc-icon nc-bulb-63"></i>
-                        </div>
-                        <div class="description">
-                            <h4 class="info-title">Menü Çeşitliliği</h4>
-
-
-
-                            <p class="description">
-
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
-                            </div>
-
-                            </p>
-                            <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="info">
-                        <div class="icon icon-danger">
-                            <i class="nc-icon nc-chart-bar-32"></i>
-                        </div>
-                        <div class="description">
-                            <h4 class="info-title">Yiyecek Kalitesi</h4>
-
-                            <p class="description">
-
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
-                            </div>
-
-                            </p>
-                            <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="info">
-                        <div class="icon icon-danger">
-                            <i class="nc-icon nc-sun-fog-29"></i>
-                        </div>
-                        <div class="description">
-                            <h4 class="info-title">Güler Yüzlülük</h4>
-
-                            <p class="description">
-
-                            <div class="col-md-3 col-sm-3">
-                                <div class="form-group">
-                                    <select class="selectpicker" data-style="btn btn-default">
-                                        <option disabled selected> SEÇİNİZ </option>
-                                        <option value="1">Çok İyi </option>
-                                        <option value="1">İyi</option>
-                                        <option value="1">Orta</option>
-                                        <option value="1">Kötü</option>
-                                    </select>
-                                </div>
-                            </div>
-
-
-                            </p>
-                            <a href="#pkp" class="btn btn-link btn-danger">YORUM YAP</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
 
             <div class="subscribe-line">
                 <div class="container">
